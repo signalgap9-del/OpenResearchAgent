@@ -2,6 +2,10 @@
 
 > **Optimized repository structure** for LLM-based research agents combining DeepCode (initial generation) and RPG-Encoder (long-term maintenance).
 
+
+<img width="1725" height="1210" alt="다운로드 (2)" src="https://github.com/user-attachments/assets/459caf16-ecd4-488d-a5a3-182d4176c4bb" />
+
+
 ## Directory Structure
 
 ```text
