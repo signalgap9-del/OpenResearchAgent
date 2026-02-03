@@ -1,4 +1,3 @@
-```markdown
 # Scalable Research Repository Template for DeepCode + RPG-Encoder
 
 > **Optimized repository structure** for LLM-based research agents combining DeepCode (initial generation) and RPG-Encoder (long-term maintenance).
