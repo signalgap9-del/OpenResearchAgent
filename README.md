@@ -4,6 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/1149225835.svg)](https://doi.org/10.5281/zenodo.18475586)
 
+Contact:https://x.com/GapSigOfficial
 
 ## 1. Problem Analysis
 
