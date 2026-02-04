@@ -89,6 +89,12 @@ When adding new experiments or refactoring:
 2. **Scale**: RPG-Encoder demonstrates linear complexity; verification required for repositories exceeding 100K LOC with rapid experimentation cycles
 3. **Multi-modal Inputs**: Handling not only code but also figures, tables, and equations from papers within the graph structure
 
+
+## 5. Architecutral design
+
+<img width="1536" height="1024" alt="ChatGPT Image 2026년 2월 4일 오전 09_03_23" src="https://github.com/user-attachments/assets/014986c9-b20c-407d-af52-dd3eae079b8d" />
+
+
 ## 5. Conclusion
 
 The proposed system addresses the asymmetry in current research agents: while DeepCode effectively maps Paper → Code (generation), it lacks the inverse Code → Paper mapping (comprehension) necessary for maintenance. RPG-Encoder provides this missing component through its dual-view graph representation.
